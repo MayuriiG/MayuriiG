@@ -14,8 +14,10 @@ I specialize in **Swift, UIKit, SwiftUI, MVVM architecture**, and modern iOS dev
 * 📦 Develop reusable iOS SDKs and frameworks
 * 🔐 Implement secure authentication, biometrics, and networking solutions
 * 🤖 Exploring AI, Agentic AI, and intelligent mobile applications
-  
+ 
+###  SDK
 * 🎥 Creator of **TruthTubeSDK** — an AI-powered iOS SDK for fake video detection, distributed via CocoaPods for easy integration into iOS applications.
+https://cocoapods.org/pods/TruthTubeSDK?utm_source=chatgpt.com
 
 
 ### 🛠 Tech Stack
