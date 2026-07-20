@@ -8,7 +8,7 @@ I specialize in developing native iOS applications using **Swift, UIKit, SwiftUI
 
 ### 🚀 What I Work With
 
-* 📱 Native iOS Development
+* 📱iOS Development
 * ⚡ Swift & SwiftUI
 * 🏛️ MVVM & Clean Architecture
 * 🔄 Swift Concurrency (Async/Await, GCD, Combine)
