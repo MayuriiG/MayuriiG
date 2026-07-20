@@ -12,7 +12,7 @@ I specialize in **Swift, UIKit, SwiftUI, MVVM architecture**, and modern iOS dev
 * 🏦 Develop secure Banking & FinTech solutions
 * 🏛️ Design scalable MVVM & Clean Architecture
 * 📦 Develop reusable iOS SDKs and frameworks
-* * 🔐 Implement secure authentication, biometrics, and networking solutions
+* 🔐 Implement secure authentication, biometrics, and networking solutions
 * 🤖 Exploring AI, Agentic AI, and intelligent mobile applications
   
 * 🎥 Creator of **TruthTubeSDK** — an AI-powered iOS SDK for fake video detection, distributed via CocoaPods for easy integration into iOS applications.
