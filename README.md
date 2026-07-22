@@ -2,7 +2,9 @@
 
 ### iOS Developer | Banking & FinTech | Swift • SwiftUI • UIKit • SDK Developer
 
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHptZWUxcjlyM3ZpeGVqOXEzdjNkN3FqcXdhNGYxc3hjMTU1bHR3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXno5BQjz3N60JtoAQ/giphy.gif
+
+![ios Developer Animatino]
+(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHptZWUxcjlyM3ZpeGVqOXEzdjNkN3FqcXdhNGYxc3hjMTU1bHR3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXno5BQjz3N60JtoAQ/giphy.gif)
 
 
 I'm an iOS Developer with **4+ years of experience** building secure, scalable, and high-performance iOS applications for the Banking & FinTech industry.
