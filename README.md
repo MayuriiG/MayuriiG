@@ -2,6 +2,12 @@
 
 ### iOS Developer | Banking & FinTech | Swift • SwiftUI • UIKit • SDK Developer
 
+
+
+![ios Developer Animation]
+(YOUR_GIF_URL_HERE)
+
+
 I'm an iOS Developer with **4+ years of experience** building secure, scalable, and high-performance iOS applications for the Banking & FinTech industry.
 
 I specialize in **Swift, UIKit, SwiftUI, MVVM architecture**, and modern iOS development practices. I'm passionate about designing reusable frameworks, writing clean and maintainable code, and building products that solve real-world problems.
