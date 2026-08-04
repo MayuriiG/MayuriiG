@@ -32,4 +32,4 @@ https://cocoapods.org/pods/TruthTubeSDK?utm_source=chatgpt.com
 * SDK & Framework Design
 * System Design
 
-> *Building secure apps, reusable SDKs, and AI-driven mobile experiences—one commit at a time.*
+> *Building secure apps, reusable SDKs, and AI-driven mobile experiences—one commit at a time*
